@@ -3,6 +3,7 @@ description: sample
 steps:
   - course: githubtraining/introduction-to-github
     description: The first step in your course
+    title: 'sam {{ repoURL }}'
   - link: 'https://lab.github.com'
     title: Check out Learning Lab for more courses!
     description: >-
